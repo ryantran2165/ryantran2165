@@ -1,9 +1,9 @@
 SUMMARY  
-• Detail-oriented software engineer with 3 years of professional software development experience  
-• Currently a full-time software developer at EPRI, having developed a dozen software products  
+• Software engineer with 3.5 years of professional software development experience  
+• Developed 10 software products at EPRI  
 • Holds a master's degree in software engineering from San Jose State University  
 • Specializes in full-stack and desktop app development and familiar with mobile app development  
-• At the highest, ranked within the top 0.5% of Kaggle machine learning competitors  
+• Ranked within the top 0.5% of Kaggle machine learning competitors at the highest  
 
 SKILLS  
 • Languages: Python, C#, Java, C++, JavaScript, HTML, CSS, SQL  
