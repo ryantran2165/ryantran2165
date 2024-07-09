@@ -2,7 +2,7 @@ SUMMARY
 • Software engineer with 3.5 years of professional software development experience  
 • Developed 10 software products at EPRI  
 • Holds a master's degree in software engineering from San Jose State University  
-• Specializes in full-stack and desktop app development and familiar with mobile app development  
+• Specializes in full-stack web and familiar with desktop and mobile app development  
 • Ranked within the top 0.5% of Kaggle machine learning competitors at the highest  
 
 SKILLS  
