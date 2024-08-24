@@ -1,4 +1,3 @@
-SUMMARY  
 • Software engineer with 3.5 years of professional software development experience  
 • Developed over 10 software products at the Electric Power Research Institute (EPRI)  
 • Holds a master's degree in software engineering from San Jose State University  
